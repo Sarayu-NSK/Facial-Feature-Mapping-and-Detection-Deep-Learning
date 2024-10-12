@@ -2,6 +2,10 @@
 
 
 Dataset - http://dlib.net/files/data/ibug_300W_large_face_landmark_dataset.tar.gz
+![image](https://github.com/user-attachments/assets/42c46216-0478-4ee6-840e-1790347f6805)
+![image](https://github.com/user-attachments/assets/0a47c41e-fd03-4172-aacd-4aa9707e5804)
+
+
 
 This project focuses on detecting facial landmarks (key points on the face such as eyes, nose, and mouth) using deep learning techniques. The objective is to accurately map these facial landmarks onto images for tasks like face alignment, expression recognition, or even facial recognition.
 
